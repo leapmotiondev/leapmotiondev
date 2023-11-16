@@ -3,9 +3,13 @@
 ## About Me
 
 👨‍💻 I'm a 27-year-old Software Developer and Network Engineer, working in the cybersecurity field.
+
 🌍 Based in Munich, Germany.
+
 💞 Engaged and soon to be married.
+
 🐾 A proud pet parent of one dog and two cats.
+
 
 ## My Work
 

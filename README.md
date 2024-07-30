@@ -6,8 +6,6 @@
 
 🌍 Based in Munich, Germany.
 
-💞 Engaged and soon to be married.
-
 🐾 A proud pet parent of one dog and two cats.
 
 

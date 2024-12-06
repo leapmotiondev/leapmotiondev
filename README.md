@@ -6,9 +6,6 @@
 
 🌍 Based in Munich, Germany.
 
-🐾 A proud pet parent of one dog and two cats.
-
-
 ## My Work
 
 In my role, I focus on creating secure and efficient software solutions, with a keen interest in developing robust network architectures and implementing top-notch cybersecurity protocols.
@@ -16,7 +13,6 @@ In my role, I focus on creating secure and efficient software solutions, with a 
 ## Personal Life
 
 - 🖥️ Passionate about technology and always eager to learn new things in the realm of software and network engineering.
-- 🐶🐱 Enjoying life with my pets and fiancée.
 - 📘 Reading and researching about advancements in cybersecurity.
 
 ## A Bit More About Me

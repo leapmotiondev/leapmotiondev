@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I'm a 27-year-old Software Developer and Network Engineer, working in the cybersecurity field.
+👨‍💻 I'm a 28-year-old Software Developer and Network Engineer, working in the cybersecurity field.
 
 🌍 Based in Munich, Germany.
 

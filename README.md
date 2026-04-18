@@ -81,3 +81,13 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=leapmotiondev&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapmotiondev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/leapmotiondev)
+
+---
+
+### 🔑 pgp
+
+![PGP](https://img.shields.io/badge/PGP-0xC4D90EEA-6E4C13?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+
+```
+FD4127FE6391C596BD6DF4DC98E78FA6C4D90EEA
+```

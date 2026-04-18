@@ -17,17 +17,24 @@
 
 ### 🔧 dev tools
 
-**languages**
-[![Languages](https://skillicons.dev/icons?i=cpp,c,python,php,cs)](https://skillicons.dev)
-
-**ides & editors**
-[![IDEs](https://skillicons.dev/icons?i=visualstudio,clion,vscode)](https://skillicons.dev)
-
-**build & version control**
-[![Build](https://skillicons.dev/icons?i=cmake,git,github)](https://skillicons.dev)
-
-**infra & runtime**
-[![Infra](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
+<table>
+  <tr>
+    <td>languages</td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,c,python,php,cs" /></td>
+  </tr>
+  <tr>
+    <td>ides & editors</td>
+    <td><img src="https://skillicons.dev/icons?i=visualstudio,clion,vscode" /></td>
+  </tr>
+  <tr>
+    <td>build & vcs</td>
+    <td><img src="https://skillicons.dev/icons?i=cmake,git,github" /></td>
+  </tr>
+  <tr>
+    <td>infra & runtime</td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux" /></td>
+  </tr>
+</table>
 
 ---
 

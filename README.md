@@ -31,8 +31,16 @@
     <td><img src="https://skillicons.dev/icons?i=cmake,git,github" /></td>
   </tr>
   <tr>
+    <td>databases</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" /></td>
+  </tr>
+  <tr>
+    <td>web servers</td>
+    <td><img src="https://skillicons.dev/icons?i=nginx,apache" /></td>
+  </tr>
+  <tr>
     <td>infra & runtime</td>
-    <td><img src="https://skillicons.dev/icons?i=docker,linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,digitalocean" /></td>
   </tr>
 </table>
 
@@ -46,6 +54,9 @@
 ![WinDbg](https://img.shields.io/badge/WinDbg-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-FF6600?style=flat-square&logoColor=white)
 ![PE-bear](https://img.shields.io/badge/PE--bear-2C2C2C?style=flat-square&logoColor=white)
+![Kernel Drivers](https://img.shields.io/badge/Kernel_Drivers-1a1a2e?style=flat-square&logo=windows&logoColor=white)
+![UEFI/EFI](https://img.shields.io/badge/UEFI%2FEFI-0078D4?style=flat-square&logoColor=white)
+![AntiCheat RE](https://img.shields.io/badge/AntiCheat_RE-822433?style=flat-square&logoColor=white)
 
 ---
 
@@ -56,9 +67,19 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Linux](https://img.shields.io/badge/CachyOS-3776AB?style=flat-square&logo=linux&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![IPsec](https://img.shields.io/badge/IPsec-2C2C2C?style=flat-square&logoColor=white)
+![PPTP](https://img.shields.io/badge/PPTP-2C2C2C?style=flat-square&logoColor=white)
 
 | | |
 |---|---|
@@ -69,18 +90,10 @@
 | 🔐 Auth | Authelia (SSO + TOTP) |
 | 📸 Photos | Immich |
 | 🌐 Proxy | Traefik |
-| 🔒 VPN | WireGuard |
-| 🌍 Network | MikroTik · Ubiquiti APs |
-
----
-
-### 📊 stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leapmotiondev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=leapmotiondev&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapmotiondev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/leapmotiondev)
+| 🔒 VPN | WireGuard · OpenVPN · IPsec · PPTP |
+| 🌍 Network | MikroTik · UniFi · pfSense · OPNsense · Palo Alto · Fortinet |
+| ☁️ Cloud | Hetzner · DigitalOcean |
+| 📧 Mail | Postfix · Dovecot |
 
 ---
 
@@ -91,3 +104,13 @@
 ```
 FD4127FE6391C596BD6DF4DC98E78FA6C4D90EEA
 ```
+
+---
+
+### 📊 stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leapmotiondev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=leapmotiondev&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leapmotiondev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/leapmotiondev)
